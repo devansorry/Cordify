@@ -1,0 +1,30 @@
+{
+  "name": "cordify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaurya-Uzi/Cordify.git"
+  },
+  "author": "Shaurya A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaurya-Uzi/Cordify/issues"
+  },
+  "homepage": "https://github.com/Shaurya-Uzi/Cordify#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.7.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "git": "^0.1.5",
+    "github": "^14.0.0",
+    "mongoose": "^6.0.12"
+  }
+}
